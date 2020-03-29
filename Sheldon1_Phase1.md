@@ -24,6 +24,9 @@ Then check the phase_1 function.
 
 ![](https://user-images.githubusercontent.com/43363015/77848307-743daa00-71e1-11ea-9403-d6517c134e0f.png)
 
+We have a fixed address pushed to the memory and then we got a TEST instruction. $0x80497c0
+In that memory address we can print out the first 30 characters.
+
 ![](https://user-images.githubusercontent.com/43363015/77848362-caaae880-71e1-11ea-9512-537a4417a9e9.png)
 
 ![](https://user-images.githubusercontent.com/43363015/77848364-ce3e6f80-71e1-11ea-9ce4-3dc308546a69.png)
