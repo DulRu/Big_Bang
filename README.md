@@ -38,7 +38,7 @@ According to the ASCII values:
   
   0x08049778 <+95>:    cmp    $0x35,%al   =>>  5
   
-  ENTER UNLOCK PASSWORD 1: 84371065
-
 ![](https://user-images.githubusercontent.com/43363015/77846565-8e24c000-71d4-11ea-8e0f-8bbe89399189.PNG)
+
+ ENTER UNLOCK PASSWORD 1: 84371065
 
