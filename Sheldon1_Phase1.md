@@ -29,6 +29,9 @@ In that memory address we can print out the first 30 characters.
 
 ![](https://user-images.githubusercontent.com/43363015/77848362-caaae880-71e1-11ea-9512-537a4417a9e9.png)
 
+We have a phrase. But we still not sure this is the right thing to defuse the bomb,
+Then we can use gdb to run the program to get the string and therefore we can test this is the right phrase.
+
 ![](https://user-images.githubusercontent.com/43363015/77848364-ce3e6f80-71e1-11ea-9ce4-3dc308546a69.png)
 
 ![](https://user-images.githubusercontent.com/43363015/77848366-d0083300-71e1-11ea-8c55-6d417555bb6d.png)
