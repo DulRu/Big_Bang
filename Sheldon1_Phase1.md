@@ -10,6 +10,8 @@ Using GDB debugger we can open sheldon1.
 
 ![](https://user-images.githubusercontent.com/43363015/77848292-64be6100-71e1-11ea-86f1-6c5011b802d8.jpg)
 
+We need to check the available function. Then we need to check the main function.
+
 ![](https://user-images.githubusercontent.com/43363015/77848294-6720bb00-71e1-11ea-891b-add8b59b470f.png)
 
 ![](https://user-images.githubusercontent.com/43363015/77848298-6c7e0580-71e1-11ea-9713-8b82348e0919.png)
