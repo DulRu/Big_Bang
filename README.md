@@ -18,6 +18,8 @@ Use gdb with sheldon 2.
 
 Use gdb's disassemble command to get all available assembler code for function yellow in sheldon2.
 
+This basically reads in your input from stdin after selecting ‘yellow’ and compares it character for character with a “fixed” sequence. So Just convert all these 0x3Y values to ASCII and enter it as a password.
+
 ![](https://user-images.githubusercontent.com/43363015/77846560-8238fe00-71d4-11ea-91b4-aa09c735bb93.PNG)
 
 According to the ASCII values: 
@@ -39,9 +41,6 @@ According to the ASCII values:
   0x08049778 <+95>:    cmp    $0x35,%al   =>>  5
   
   ENTER UNLOCK PASSWORD 1: 84371065
-
-
-
 
 ![](https://user-images.githubusercontent.com/43363015/77846565-8e24c000-71d4-11ea-8e0f-8bbe89399189.PNG)
 
