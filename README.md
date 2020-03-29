@@ -20,6 +20,25 @@ Use gdb's disassemble command to get all available assembler code for function y
 
 ![](https://user-images.githubusercontent.com/43363015/77846560-8238fe00-71d4-11ea-91b4-aa09c735bb93.PNG)
 
+According to the ASCII values: 
+
+  0x0804972b <+18>:    cmp    $0x38,%al   =>>  8
+  
+  0x08049736 <+29>:    cmp    $0x34,%al   =>>  4
+  
+  0x08049741 <+40>:    cmp    $0x33,%al   =>>  3
+  
+  0x0804974c <+51>:    cmp    $0x37,%al   =>>  7
+  
+  0x08049757 <+62>:    cmp    $0x31,%al   =>>  1
+  
+  0x08049762 <+73>:    cmp    $0x30,%al   =>>  0
+   
+  0x0804976d <+84>:    cmp    $0x36,%al   =>>  6
+  
+  0x08049778 <+95>:    cmp    $0x35,%al   =>>  5
+  
+  ENTER UNLOCK PASSWORD 1: 84371065
 
 
 
