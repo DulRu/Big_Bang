@@ -10,7 +10,7 @@ Select Yellow for phase 1
 
 MENU SELECTION: 1
 
-![](https://user-images.githubusercontent.com/43363015/77846547-78af9600-71d4-11ea-962a-c4c1051aeecc.PNG)
+
 
 Use gdb with sheldon 2.
 
