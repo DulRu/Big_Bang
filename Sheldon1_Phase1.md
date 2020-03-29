@@ -20,6 +20,8 @@ The program calls the relevant phase function upon the correct phase phrase.
 
 ![](https://user-images.githubusercontent.com/43363015/77848298-6c7e0580-71e1-11ea-9713-8b82348e0919.png)
 
+Then check the phase_1 function.
+
 ![](https://user-images.githubusercontent.com/43363015/77848307-743daa00-71e1-11ea-9403-d6517c134e0f.png)
 
 ![](https://user-images.githubusercontent.com/43363015/77848362-caaae880-71e1-11ea-9512-537a4417a9e9.png)
