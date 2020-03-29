@@ -16,3 +16,9 @@ Using GDB debugger we can open sheldon1.
 
 ![](https://user-images.githubusercontent.com/43363015/77848307-743daa00-71e1-11ea-9403-d6517c134e0f.png)
 
+![](https://user-images.githubusercontent.com/43363015/77848362-caaae880-71e1-11ea-9512-537a4417a9e9.png)
+
+![](https://user-images.githubusercontent.com/43363015/77848364-ce3e6f80-71e1-11ea-9ce4-3dc308546a69.png)
+
+![](https://user-images.githubusercontent.com/43363015/77848366-d0083300-71e1-11ea-8c55-6d417555bb6d.png)
+
